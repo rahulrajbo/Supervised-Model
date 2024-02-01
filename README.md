@@ -1,1 +1,1 @@
-# Supervised-Model- Patient Condition Prediction Model
+# Supervised-Model
